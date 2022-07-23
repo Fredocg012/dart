@@ -36,6 +36,6 @@ class Gato implements Animal
   int? cola;
   void emitirSonido()
   {
-    print("Miau");
+    print("Miauu");
   }
 }
